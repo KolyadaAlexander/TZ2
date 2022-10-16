@@ -1,1 +1,1 @@
-![Build Status](https://github.com/{Колядаалександр}/{TZ2}/workflows/{ACTIONNAME}/badge.svg)
+![Build Status](https://github.com/KolyadaAlexander/TZ2/workflows/CISIST/badge.svg)
